@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+
+# Environment files
+.env
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data & models (optional if too large)
+Data/
+Notebooks/runs/
+*.pt
+
+# System
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Conda environments
+*.conda
+*.egg-info/
+
+# Logs
+*.log
+
+# PyCharm
+.idea/
+
+# Virtual environments
+venv/
+env/
